@@ -1,6 +1,6 @@
 # CONFIG
 wp-config.php
-wp-config-sample.php
+.htaccess
 
 # RACINE
 readme.html
