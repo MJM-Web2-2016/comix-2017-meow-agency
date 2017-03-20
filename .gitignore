@@ -1,8 +1,10 @@
 # CONFIG
 wp-config.php
 wp-config-sample.php
-wp-content/uploads/
 
 # RACINE
 readme.html
 license.txt
+
+# MEDIAS
+wp-content/uploads/
